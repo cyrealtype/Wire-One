@@ -8,4 +8,4 @@ Wire One is a Unicode typeface family that supports
 languages that use the Latin script and its variants, and 
 could be expanded to support other scripts.
 
-![Wire One Font](src/sample.png)
+![Wire One Font](documentation/sample.png)
