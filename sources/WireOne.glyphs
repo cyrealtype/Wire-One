@@ -8156,11 +8156,11 @@ width = 166;
 unicode = 00A0;
 },
 {
-glyphname = nonmarkingreturn;
+glyphname = CR;
 layers = (
 {
 layerId = UUID0;
-width = 0;
+width = 166;
 }
 );
 unicode = 000D;
@@ -11169,16 +11169,6 @@ layerId = UUID0;
 width = 0;
 }
 );
-},
-{
-glyphname = CR;
-layers = (
-{
-layerId = UUID0;
-width = 166;
-}
-);
-unicode = 000D;
 }
 );
 instances = (
