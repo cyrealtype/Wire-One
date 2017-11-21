@@ -21,15 +21,17 @@ could be expanded to support other scripts.
 More specifically, this release supports the following Unicode
 ranges: Latin-1
 
-To contribute to the project contact Alexei Vanyashin at 
-a (at) cyreal.org
+To contribute to the project please post an issue on the git tracker https://github.com/cyrealtype/Wire-One
 
 Source files:
 
-1. WireOne-OTF.vfb (Decomposed, merged and optimized file)
-2. WireOne-TTF.vbf (Mastered TTF file with manual hints)
+sources/WireOne.glyphs
 
 ChangeLog
+
+21 November 2017 (v. 1.100) Alexei Vanyashin
+— Moved sources to .glyphs, regenerated fonts
+— organised repo folders as per GF requirements
 
 5 January 2016 (v. 1.012) Dave Crossland
 - Fixed GPOS table to ensure it works in Firefox 44
@@ -49,3 +51,6 @@ E: a (at) cyreal.org
 W: www.cyreal.org
 D: Original Design Concept and Mastering
 
+N: Gayaneh Bagdasaryan
+E: gayaneh.b@gmail.com
+D: Glyph set expansion

@@ -9,11 +9,6 @@
 # Names should be added to this file as:
 # Name <email address>
 
-Vernon Adams <contact@sansoxygen.com>
-Ben Nathan <hafontia@gmail.com>
 Dave Crossland <dave@lab6.com>
-Thomas Jockin <thomas@thomasjockin.com>
-Marc Foley <m.foley.88@gmail.com>
-Eugene Spizhovy <spizhovy@gmail.com>
 Alexei Vanyashin <a@cyreal.org>
-Nhung Nguyen <vns.wonderland@gmail.com>
+Gayaneh Bagdasaryan <gayaneh.b@gmail.com>
