@@ -1,6 +1,6 @@
 {
 .appVersion = "1075";
-copyright = "Copyright (c) 2011 by Cyreal type foundry. All rights reserved.";
+copyright = "Copyright 2011 The Wire One Project Authors (https://github.com/cyrealtype/Wire-One)";
 customParameters = (
 {
 name = licenseURL;
@@ -30,9 +30,13 @@ value = 1;
 {
 name = "Use Line Breaks";
 value = 1;
+},
+{
+name = vendorID;
+value = CYRE;
 }
 );
-date = "2017-11-21 11:03:29 +0000";
+date = "2017-11-21 11:06:17 +0000";
 designer = "Alexei Vanyashin, Gayaneh Bagdasaryan";
 designerURL = "http://cyreal.org";
 disablesAutomaticAlignment = 1;
@@ -12892,7 +12896,7 @@ slash = -22;
 };
 };
 keyboardIncrement = 0;
-manufacturer = "Cyreal (www.cyreal.org)";
+manufacturer = Cyreal;
 manufacturerURL = "http://cyreal.org";
 unitsPerEm = 2048;
 versionMajor = 1;
