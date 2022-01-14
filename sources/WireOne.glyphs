@@ -1,5 +1,5 @@
 {
-.appVersion = "1075";
+.appVersion = "1352";
 copyright = "Copyright 2011 The Wire One Project Authors (https://github.com/cyrealtype/Wire-One)";
 customParameters = (
 {
@@ -144,11 +144,11 @@ value = 0;
 },
 {
 name = hheaAscender;
-value = 889;
+value = 890;
 },
 {
 name = typoAscender;
-value = 889;
+value = 890;
 },
 {
 name = hheaDescender;
@@ -160,7 +160,7 @@ value = 210;
 },
 {
 name = winAscent;
-value = 889;
+value = 890;
 }
 );
 descender = -210;
@@ -12517,7 +12517,6 @@ slash = -10.74219;
 };
 };
 };
-keyboardIncrement = 0;
 manufacturer = Cyreal;
 manufacturerURL = "http://cyreal.org";
 unitsPerEm = 1000;
