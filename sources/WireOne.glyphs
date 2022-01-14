@@ -36,7 +36,7 @@ name = vendorID;
 value = CYRE;
 }
 );
-date = "2017-11-21 14:12:53 +0000";
+date = "2022-01-14 09:55:55 +0000";
 designer = "Alexei Vanyashin, Gayaneh Bagdasaryan";
 designerURL = "http://cyreal.org";
 disablesAutomaticAlignment = 1;
@@ -12521,5 +12521,5 @@ manufacturer = Cyreal;
 manufacturerURL = "http://cyreal.org";
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 101;
+versionMinor = 102;
 }
