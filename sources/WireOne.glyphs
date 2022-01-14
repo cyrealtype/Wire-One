@@ -9477,6 +9477,25 @@ width = 426;
 unicode = 0025;
 },
 {
+glyphname = uni2215;
+layers = (
+{
+components = (
+{
+name = slash;
+transform = "{1, 0, 0, 1, -23, 0}";
+}
+);
+layerId = UUID0;
+width = 231;
+}
+);
+leftKerningGroup = minus;
+note = uni2215;
+rightKerningGroup = minus;
+unicode = 2215;
+},
+{
 glyphname = at;
 layers = (
 {
